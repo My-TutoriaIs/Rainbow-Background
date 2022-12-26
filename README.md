@@ -12,4 +12,4 @@ Note that this is just a basic example of how to create a rainbow effect on your
 
 EXAMPLE:
 
-![Rainbow Effect](https://imgur.com/a/d368SeU)
+![Rainbow Effect](https://imgur.com/gallery/5Cu0dWT)
