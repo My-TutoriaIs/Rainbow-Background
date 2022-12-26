@@ -8,6 +8,7 @@ You can apply this script to your website by adding it to your CSS file or by in
 
 Note that this is just a basic example of how to create a rainbow effect on your website using CSS. You can customize the effect by modifying the colors and direction of the gradient, or by using other CSS properties and techniques to create more complex and interactive effects.
 
+This can be used as a Vintage Theme to your website or any other reasons.
 
 
 EXAMPLE:
