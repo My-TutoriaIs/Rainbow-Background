@@ -7,3 +7,8 @@ This CSS script applies a linear gradient to the body element of your website, s
 You can apply this script to your website by adding it to your CSS file or by including it in a style element in the head of your HTML document.
 
 Note that this is just a basic example of how to create a rainbow effect on your website using CSS. You can customize the effect by modifying the colors and direction of the gradient, or by using other CSS properties and techniques to create more complex and interactive effects.
+
+
+
+EXAMPLE:
+![Rainbow Effect](C:\Users\jayrd\Downloads\image.jpg)
